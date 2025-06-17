@@ -9,7 +9,7 @@ import threading
 import pytz
 
 # --- CONFIGURATION ---
-TOKEN = '8010650634:AAGClUpEvE_1NnsPA6qKETbfrD5CITUj5Fw'
+TOKEN = '8153551030:AAGVgAwAET6_RARaarG-qU_abqaB6DcyPIE'
 CHANNEL_USERNAME = '@DealMaster_Official'
 ADMIN_ID = 2095987863  # Replace with your Telegram user ID
 IST = pytz.timezone('Asia/Kolkata')
